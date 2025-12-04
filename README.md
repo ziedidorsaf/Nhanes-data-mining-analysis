@@ -159,14 +159,6 @@ Potential extensions to this project:
 - **Causal inference**: Advanced statistical modeling
 - **Interactive dashboards**: Web-based visualization tools
 
-##  Learning Resources
-
-- [NHANES Documentation](https://www.cdc.gov/nchs/nhanes/index.htm)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Scikit-learn User Guide](https://scikit-learn.org/stable/user_guide.html)
-- [Scipy Statistical Functions](https://docs.scipy.org/doc/scipy/reference/stats.html)
-
-
 ##  License
 
 This project is open source and available under the [MIT License](LICENSE).
